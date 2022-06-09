@@ -1,4 +1,4 @@
-# FPS
+# FPS NFT Game
 
 
 
